@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AutoPrestigeArenda", "AutoPrestigeArenda\AutoPrestigeArenda.csproj", "{1F9A90EF-C847-420C-B052-177C6748C8D1}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1F9A90EF-C847-420C-B052-177C6748C8D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F9A90EF-C847-420C-B052-177C6748C8D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F9A90EF-C847-420C-B052-177C6748C8D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F9A90EF-C847-420C-B052-177C6748C8D1}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {F840BFFF-5518-423E-AD5D-7C10B8DE5763}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,132 @@
+﻿<Window x:Class="AutoPrestigeArenda.ManagerBuy"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:AutoPrestigeArenda"
+        xmlns:dvc="clr-namespace:System.Windows.Forms.DataVisualization.Charting;assembly=System.Windows.Forms.DataVisualization" 
+        xmlns:materialDesign="http://materialdesigninxaml.net/winfx/xaml/themes"
+        xmlns:extensions="using:Microsoft.Toolkit.Uwp.UI.Extensions"
+        mc:Ignorable="d"
+        Title="AutoPrestige" Height="750" Width="1000" MinHeight="750" MinWidth="1000">
+    <Grid  >
+        <Image x:Name="LogogImg" Source="/Images/Logo.png" HorizontalAlignment="Left" VerticalAlignment="Top" Width="80" Height="50" />
+        <Label x:Name="Title" Grid.Row="0" Content="Менеджер по работе с автомобилями" HorizontalAlignment="Center" VerticalAlignment="Top"  FontWeight="Bold" Margin="0,15,0,0" Grid.Column="1"  />
+        <TabControl Margin="0,50,0,50" Style="{StaticResource MaterialDesignTabControl}">
+            <TabItem Header="Список автомобилей" >
+                <Grid >
+                    <Grid.RowDefinitions>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                        <RowDefinition></RowDefinition>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                        <ColumnDefinition></ColumnDefinition>
+                    </Grid.ColumnDefinitions>
+                    <Label Content="Поиск 🔎" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,8,0,0"/>
+                    <TextBox x:Name="SearchTB" VerticalAlignment="Top" HorizontalAlignment="Left" Width="218" Height="25" Margin="10,39,0,0" TextChanged="SearchText" ToolTip="Поиск"/>
+
+                    <DataGrid x:Name="Cars" IsReadOnly="True" AlternatingRowBackground="LightGray" AutoGenerateColumns="False" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="10,69,0,0" ItemsSource="{Binding}" SelectedCellsChanged="Car_SelectedCellsChanged" Grid.ColumnSpan="2" Grid.RowSpan="2"  >
+                        <DataGrid.Columns>
+                            <DataGridTextColumn Header="Номер автомобиля" Binding="{Binding Number}"/>
+                            <DataGridTextColumn Header="Модель" Binding="{Binding Model}"/>
+                            <DataGridTextColumn Header="Привод" Binding="{Binding Drive_unit}"/>
+                            <DataGridTextColumn Header="Компьютер" Binding="{Binding Onboard_computer}"/>
+                            <DataGridTextColumn Header="Корбка" Binding="{Binding Transmission}"/>
+                            <DataGridTextColumn Header="Статус" Binding="{Binding Status}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+                    <Grid Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="2" Margin="2" HorizontalAlignment="Stretch">
+                        <ComboBox x:Name="DictionaryCB"  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="81,80,0,0" SelectionChanged="DictionaryCB_SelectionChanged" Width="234" />
+                        <Button x:Name="FilterBT"  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="81,113,0,0" Click="FilterBT_Click" Width="234"  Content="Отфильтровать ⧩"/>
+                        <Label Content="Фильтры" Height="26" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="81,45,0,0" Width="70"  />
+                        <ComboBox x:Name="Filter"  IsEditable="True" Margin="322,80,0,0"  HorizontalAlignment="Left" VerticalAlignment="Top" ItemsSource="{Binding}" Width="235" />
+                        <Button x:Name="CanelFilter"  Content="Сброс 🚫"  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="322,113,0,0" Click="CanelFilter_Click" Width="235" />
+                    </Grid>
+                    <Grid  Grid.Row="1" Grid.Column="2" Margin="0" Grid.RowSpan="2" VerticalAlignment="Stretch" >
+                        <Label Content="Номер" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,171,0,0" />
+                        <TextBox x:Name="NumberTB"   HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="159,171,20,0" PreviewTextInput="NumberTB_PreviewTextInput" MaxLength="9" PreviewKeyDown="NumberTB_KeyDown"/>
+                        <Label Content="Модель" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,208,0,0" />
+                        <ComboBox x:Name="ModelCB" HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="159,208,20,0" ItemsSource="{Binding}"/>
+                        <ComboBox x:Name="DriverUnitTB" ItemsSource="{Binding}" IsEditable="True"  HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="159,242,20,0" />
+                        <ComboBox x:Name="ComputerTB"  HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="159,277,20,0" >
+                            <ComboBoxItem>Есть</ComboBoxItem>
+                            <ComboBoxItem>Нет</ComboBoxItem>
+                        </ComboBox>
+                        <ComboBox x:Name="TransmissionTB" ItemsSource="{Binding}" HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="159,312,20,0" />
+                        <Label  Content="Привод" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,242,0,0" />
+                        <Label Content="Бортовой компьютер" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,275,0,0" />
+                        <Label  Content="Коробка передач" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,309,0,0" />
+
+                        <ComboBox x:Name="Status"  HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="159,343,20,0" />
+                        <Label Content="Статус" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,339,0,0" />
+
+                        <Button x:Name="InsertBT" Content="Добавить ✓"  HorizontalAlignment="Center" VerticalAlignment="Top" Click="InsertBT_Click" Margin="0,47,0,0" Width="200"  />
+                        <Button x:Name="DeleteBT" Content="Списание 🗑"  HorizontalAlignment="Center" VerticalAlignment="Top" Margin="0,119,0,0" Click="DeleteBT_Click" Width="200" />
+                        <Button x:Name="UpdateBT" Content="Обновить ✎" VerticalAlignment="Top" HorizontalAlignment="Center" Margin="0,82,0,0" Click="UpdateBT_Click" Width="200" />
+                    </Grid>
+                    <Image x:Name="Photo" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Source="{Binding}" Margin="10,10,10,0" Grid.Column="2"/>
+
+                </Grid>
+            </TabItem>
+            <TabItem Header="Модели" >
+                <Grid >
+                    <Grid.RowDefinitions>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                        <RowDefinition/>
+                    </Grid.RowDefinitions>
+                    <Grid.ColumnDefinitions>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                        <ColumnDefinition/>
+                    </Grid.ColumnDefinitions>
+                    <Image x:Name="ModelPhoto" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Source="{Binding}" Margin="10,10,10,0" Grid.Column="2"/>
+
+                    <DataGrid x:Name="ModelsTabel" IsReadOnly="True" AlternatingRowBackground="LightGray" AutoGenerateColumns="False" HorizontalAlignment="Stretch" VerticalAlignment="Stretch" Margin="10,69,0,0" ItemsSource="{Binding}" SelectedCellsChanged="ModelsTabel_SelectedCellsChanged"  Grid.ColumnSpan="2" Grid.RowSpan="2">
+                        <DataGrid.Columns>
+
+                            <DataGridTextColumn Header="Модель" Binding="{Binding Model}"/>
+                            <DataGridTextColumn Header="Производитель" Binding="{Binding Brand}"/>
+                            <DataGridTextColumn Header="Класс" Binding="{Binding Class}"/>
+                            <DataGridTextColumn Header="Количество" Binding="{Binding Count}"/>
+                            <DataGridTextColumn Header="Цена в сутки (Руб.)" Binding="{Binding Price}"/>
+                        </DataGrid.Columns>
+                    </DataGrid>
+
+                    <Grid Grid.Row="1" Grid.Column="2" Margin="0" Grid.RowSpan="3" VerticalAlignment="Stretch" >
+                        <Button x:Name="InsertModelBT" FontFamily="Italic" HorizontalAlignment="Center" VerticalAlignment="Top" Content="Добавить ✓"  Margin="0,10,0,0" Width="235" Click="InsertModelBT_Click"  />
+                        <Button x:Name="UpdateModelBT" Content="Обновить ✎"  HorizontalAlignment="Center" VerticalAlignment="Top"  Margin="0,45,0,0" Width="235" Click="UpdateModelBT_Click" />
+                        <Button x:Name="DeleteModelBT" Content="Удалить🗑" VerticalAlignment="Top" HorizontalAlignment="Center"  Margin="0,82,0,0" Width="235" Click="DeleteModelBT_Click" />
+                        <Label  Content="Класс" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,194,0,0" />
+                        <Label  Content="Бренд" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,162,0,0" />
+                        <Label  Content="Модель" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,133,0,0" />
+                        <ComboBox x:Name="ClassTB" ItemsSource="{Binding}" IsEditable="True" Height="22" Width="140" HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="154,196,0,0" />
+                        <ComboBox x:Name="BrandTB" ItemsSource="{Binding}" IsEditable="True" Height="22" Width="140"  HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="154,167,0,0" />
+                        <TextBox x:Name="ModelTB" Height="22" Width="140"  HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="172,135,18,0" />
+                        <Label Content="Количество" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,228,0,0"  />
+                        <TextBox x:Name="CountTB" Width="140" Height="25" HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="154,228,0,0" PreviewTextInput="A_PreviewTextInput" MaxLength="10" PreviewKeyDown="NumberTB_KeyDown"/>
+                        <Label Content="Цена (Руб.)" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,263,0,0"  />
+                        <TextBox x:Name="PriceTB" Width="140" Height="25" HorizontalAlignment="Stretch" VerticalAlignment="Top" Margin="172,263,18,0" PreviewTextInput="PriceTB_PreviewTextInput" MaxLength="10" PreviewKeyDown="NumberTB_KeyDown"/>
+                        <Button x:Name="AddPicture" Content="Обзор 📷" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="50,311,50,0" Click="AddPicture_Click" Width="230"/>
+                        <TextBox x:Name="PictureTB" HorizontalAlignment="Center" VerticalAlignment="Top" Margin="50,348,50,0"  Width="230" IsReadOnly="True"/>
+                    </Grid>
+                    <Label Content="Поиск" HorizontalAlignment="Left" VerticalAlignment="Top" Margin="10,8,0,0" Width="50" />
+                    <TextBox x:Name="SearchModelTB" VerticalAlignment="Top" HorizontalAlignment="Left" Width="218" Height="25" Margin="10,39,0,0" TextChanged="SearchModelTB_TextChanged" ToolTip="Поиск"/>
+                    <Grid Grid.Column="0" Grid.Row="2" Grid.ColumnSpan="2" Margin="2" HorizontalAlignment="Stretch">
+                        <ComboBox x:Name="ModelsDictionaryCB"  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="81,80,0,0" SelectionChanged="ModelsDictionaryCB_SelectionChanged" Width="234" />
+                        <Button x:Name="ModelsFilterBT"  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="81,113,0,0"  Width="234"  Content="Отфильтровать ⧩" Click="ModelsFilterBT_Click"/>
+                        <Label Content="Фильтры" Height="26" VerticalAlignment="Top" HorizontalAlignment="Left" Margin="81,45,0,0" Width="70"  />
+                        <ComboBox x:Name="ModelsFilter"  IsEditable="True" Margin="322,80,0,0"  HorizontalAlignment="Left" VerticalAlignment="Top" ItemsSource="{Binding}" Width="235" />
+                        <Button x:Name="ModelsCanelFilter"  Content="Сброс 🚫"  HorizontalAlignment="Left" VerticalAlignment="Top" Margin="322,113,0,0"  Width="235" Click="ModelsCanelFilter_Click" />
+                    </Grid>
+                </Grid>
+            </TabItem>
+        </TabControl>
+        <Button x:Name="Exit" HorizontalAlignment="Left" VerticalAlignment="Bottom"   Click="Exit_Click"  ToolTip="Выход" Margin="10,0,0,10">
+            <materialDesign:PackIcon Kind="ExitToApp" Width="Auto" Height="auto" />
+        </Button>
+    </Grid>
+</Window>
