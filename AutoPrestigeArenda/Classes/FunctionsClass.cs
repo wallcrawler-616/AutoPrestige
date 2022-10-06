@@ -43,6 +43,10 @@ namespace AutoPrestigeArenda
                 Connect.Close();
             }
         }
+        public void getLink() 
+        {
+        
+        }
         public void StringLoad(string Cmd, ref string str) 
         {
             try
