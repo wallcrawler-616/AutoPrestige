@@ -1,0 +1,252 @@
+E:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.csprojAssemblyReference.cache
+E:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.exe.config
+E:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Admin.g.cs
+E:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\MainWindow.g.cs
+E:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\ManagerAuto.g.cs
+E:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\ManagerBuy.g.cs
+E:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\ManagerTech.g.cs
+E:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\App.g.cs
+E:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda_MarkupCompile.cache
+E:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda_MarkupCompile.lref
+F:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\AutoPrestigeArenda.exe.config
+F:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\AutoPrestigeArenda.exe
+F:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\AutoPrestigeArenda.pdb
+F:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\MySql.Data.dll
+F:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\Google.Protobuf.dll
+F:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\Zstandard.Net.dll
+F:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\BouncyCastle.Crypto.dll
+F:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\Ubiety.Dns.Core.dll
+F:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\Renci.SshNet.dll
+F:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\System.Buffers.dll
+F:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\K4os.Compression.LZ4.dll
+F:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\K4os.Hash.xxHash.dll
+F:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\System.Memory.dll
+F:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\MySql.Data.xml
+F:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.exe.config
+F:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Admin.g.cs
+F:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\MainWindow.g.cs
+F:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\ManagerBuy.g.cs
+F:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\ManagerTech.g.cs
+F:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\App.g.cs
+F:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda_MarkupCompile.cache
+F:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda_MarkupCompile.lref
+F:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Admin.baml
+F:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\MainWindow.baml
+F:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\ManagerBuy.baml
+F:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\ManagerTech.baml
+F:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.g.resources
+F:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.Properties.Resources.resources
+F:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.csproj.GenerateResource.cache
+F:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.csproj.CoreCompileInputs.cache
+F:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.csproj.CopyComplete
+F:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.exe
+F:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.pdb
+F:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\ManagerOrders.g.cs
+F:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\ManagerOrders.baml
+F:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.csprojAssemblyReference.cache
+G:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.csprojAssemblyReference.cache
+G:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.exe.config
+G:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Admin.g.cs
+G:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\MainWindow.g.cs
+G:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\ManagerBuy.g.cs
+G:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\ManagerOrders.g.cs
+G:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\App.g.cs
+G:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda_MarkupCompile.cache
+G:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda_MarkupCompile.lref
+G:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.exe
+G:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.pdb
+G:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\ManagerTech.g.cs
+G:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\AutoPrestigeArenda.exe.config
+G:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\AutoPrestigeArenda.exe
+G:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\AutoPrestigeArenda.pdb
+G:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\Google.Protobuf.dll
+G:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\Zstandard.Net.dll
+G:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\BouncyCastle.Crypto.dll
+G:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\Ubiety.Dns.Core.dll
+G:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\Renci.SshNet.dll
+G:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\System.Buffers.dll
+G:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\K4os.Compression.LZ4.dll
+G:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\K4os.Hash.xxHash.dll
+G:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\System.Memory.dll
+G:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\MySql.Data.xml
+G:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Admin.baml
+G:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\MainWindow.baml
+G:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\ManagerBuy.baml
+G:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\ManagerOrders.baml
+G:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\ManagerTech.baml
+G:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.g.resources
+G:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.Properties.Resources.resources
+G:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.csproj.GenerateResource.cache
+G:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.csproj.CoreCompileInputs.cache
+G:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.csproj.CopyComplete
+F:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Director.g.cs
+F:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Director.baml
+G:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Director.g.cs
+G:\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Director.baml
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\AutoPrestigeArenda.exe.config
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\AutoPrestigeArenda.exe
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\AutoPrestigeArenda.pdb
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\MySql.Data.dll
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\Google.Protobuf.dll
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\Zstandard.Net.dll
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\K4os.Compression.LZ4.Streams.dll
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\BouncyCastle.Crypto.dll
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\Ubiety.Dns.Core.dll
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\Renci.SshNet.dll
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\System.Buffers.dll
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\K4os.Compression.LZ4.dll
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\K4os.Hash.xxHash.dll
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\System.Memory.dll
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\MySql.Data.xml
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.csprojAssemblyReference.cache
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.exe.config
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\App.g.cs
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda_MarkupCompile.cache
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda_MarkupCompile.lref
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.g.resources
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.Properties.Resources.resources
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.csproj.GenerateResource.cache
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.csproj.CoreCompileInputs.cache
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.csproj.CopyComplete
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.exe
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.pdb
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\AutoPrestigeArenda.exe.config
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\AutoPrestigeArenda.exe
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\AutoPrestigeArenda.pdb
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\App.g.cs
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda_MarkupCompile.cache
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda_MarkupCompile.lref
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.g.resources
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.Properties.Resources.resources
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.csproj.GenerateResource.cache
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.csproj.CoreCompileInputs.cache
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.csproj.CopyComplete
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.exe
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.pdb
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\MaterialDesignColors.dll
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\MaterialDesignThemes.Wpf.dll
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\MaterialDesignColors.pdb
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\MaterialDesignThemes.Wpf.pdb
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\MaterialDesignThemes.Wpf.xml
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\App.baml
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Windows\Admin.g.cs
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Windows\LoginWindow.g.cs
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Windows\ManagerBuy.g.cs
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Windows\ManagerOrders.g.cs
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Windows\Admin.baml
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Windows\LoginWindow.baml
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Windows\ManagerBuy.baml
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Windows\ManagerOrders.baml
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\MaterialDesignColors.dll
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\MaterialDesignThemes.Wpf.dll
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\MaterialDesignColors.pdb
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\MaterialDesignThemes.Wpf.pdb
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\MaterialDesignThemes.Wpf.xml
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Windows\Admin.g.cs
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Windows\LoginWindow.g.cs
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Windows\ManagerBuy.g.cs
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Windows\ManagerOrders.g.cs
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\App.baml
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Windows\Admin.baml
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Windows\LoginWindow.baml
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Windows\ManagerBuy.baml
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Windows\ManagerOrders.baml
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\MaterialDesignExtensions.dll
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\MaterialDesignExtensions.xml
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\ar-DZ\MaterialDesignExtensions.resources.dll
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\cs\MaterialDesignExtensions.resources.dll
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\cs-CZ\MaterialDesignExtensions.resources.dll
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\de\MaterialDesignExtensions.resources.dll
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\fr\MaterialDesignExtensions.resources.dll
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\fr-FR\MaterialDesignExtensions.resources.dll
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\pt\MaterialDesignExtensions.resources.dll
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\pt-BR\MaterialDesignExtensions.resources.dll
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\Ru\MaterialDesignExtensions.resources.dll
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\ru-ru\MaterialDesignExtensions.resources.dll
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\uz-Latn-UZ\MaterialDesignExtensions.resources.dll
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\MaterialDesignExtensions.dll
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\MaterialDesignExtensions.xml
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\ar-DZ\MaterialDesignExtensions.resources.dll
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\cs\MaterialDesignExtensions.resources.dll
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\cs-CZ\MaterialDesignExtensions.resources.dll
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\de\MaterialDesignExtensions.resources.dll
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\fr\MaterialDesignExtensions.resources.dll
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\fr-FR\MaterialDesignExtensions.resources.dll
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\pt\MaterialDesignExtensions.resources.dll
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\pt-BR\MaterialDesignExtensions.resources.dll
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\Ru\MaterialDesignExtensions.resources.dll
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\ru-ru\MaterialDesignExtensions.resources.dll
+F:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\uz-Latn-UZ\MaterialDesignExtensions.resources.dll
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.csprojAssemblyReference.cache
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\Google.Protobuf.dll
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\Zstandard.Net.dll
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\K4os.Compression.LZ4.Streams.dll
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\BouncyCastle.Crypto.dll
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\Ubiety.Dns.Core.dll
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\Renci.SshNet.dll
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\System.Buffers.dll
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\K4os.Compression.LZ4.dll
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\K4os.Hash.xxHash.dll
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\System.Memory.dll
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\MySql.Data.xml
+G:\Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.exe.config
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\AutoPrestigeArenda.exe.config
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\AutoPrestigeArenda.exe
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\AutoPrestigeArenda.pdb
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\MaterialDesignColors.dll
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\MaterialDesignExtensions.dll
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\MaterialDesignThemes.Wpf.dll
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\Google.Protobuf.dll
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\Zstandard.Net.dll
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\Renci.SshNet.dll
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\System.Buffers.dll
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\System.Memory.dll
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\MaterialDesignColors.pdb
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\MaterialDesignExtensions.xml
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\MaterialDesignThemes.Wpf.pdb
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\MaterialDesignThemes.Wpf.xml
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\MySql.Data.xml
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\ar-DZ\MaterialDesignExtensions.resources.dll
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\cs\MaterialDesignExtensions.resources.dll
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\cs-CZ\MaterialDesignExtensions.resources.dll
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\de\MaterialDesignExtensions.resources.dll
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\fr\MaterialDesignExtensions.resources.dll
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\fr-FR\MaterialDesignExtensions.resources.dll
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\pt\MaterialDesignExtensions.resources.dll
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\pt-BR\MaterialDesignExtensions.resources.dll
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\Ru\MaterialDesignExtensions.resources.dll
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\ru-ru\MaterialDesignExtensions.resources.dll
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\bin\Debug\uz-Latn-UZ\MaterialDesignExtensions.resources.dll
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.csproj.AssemblyReference.cache
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.exe.config
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Windows\Admin.g.cs
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Windows\LoginWindow.g.cs
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Windows\ManagerBuy.g.cs
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Windows\ManagerOrders.g.cs
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\App.g.cs
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda_MarkupCompile.cache
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda_MarkupCompile.lref
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\App.baml
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Windows\Admin.baml
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Windows\LoginWindow.baml
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Windows\ManagerBuy.baml
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\Windows\ManagerOrders.baml
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.g.resources
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.Properties.Resources.resources
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.csproj.GenerateResource.cache
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.csproj.CoreCompileInputs.cache
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.csproj.CopyComplete
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.exe
+C:\Users\pyasi\Desktop\Диплом Пясик 4П1\AutoPrestigeArenda\AutoPrestigeArenda\obj\Debug\AutoPrestigeArenda.pdb
