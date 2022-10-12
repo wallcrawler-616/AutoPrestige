@@ -57,23 +57,27 @@ namespace AutoPrestigeArenda
 
         private void UpdateBT_Click(object sender, RoutedEventArgs e)
         {
-            if (AutoIdTB.Text == "" || RentTimeTB.Text == "" || PaymentTypeTB.Text == "" || Status.Text == "" || AutoIdTB.Text == "" || RentTimeTB.Text == ""
-                || FamilyTB.Text == "" || NameTB.Text == "" || SecondNameTB.Text == "" || PhoneTB.Text == "" || Series.Text == "" || Number.Text == "" ||
-                FamilyTB.Text == " " || NameTB.Text == " " || SecondNameTB.Text == " " || PhoneTB.Text == " " || Series.Text == " " || Number.Text == " "
-                || PaymentTypeTB.Text == "" || Status.Text == "" || PriceTB.Text == "" || PriceTB.Text == " " || AdressTB.Text == "" || AdressTB.Text == " ")
+            if (DataGrid.SelectedItems != null)
             {
 
-                MessageBox.Show("Заполните все поля", "Внимание!", MessageBoxButton.OK, MessageBoxImage.Warning);
+                if (AutoIdTB.Text == "" || RentTimeTB.Text == "" || PaymentTypeTB.Text == "" || Status.Text == "" || AutoIdTB.Text == "" || RentTimeTB.Text == ""
+                    || FamilyTB.Text == "" || NameTB.Text == "" || SecondNameTB.Text == "" || PhoneTB.Text == "" || Series.Text == "" || Number.Text == "" ||
+                    FamilyTB.Text == " " || NameTB.Text == " " || SecondNameTB.Text == " " || PhoneTB.Text == " " || Series.Text == " " || Number.Text == " "
+                    || PaymentTypeTB.Text == "" || Status.Text == "" || PriceTB.Text == "" || PriceTB.Text == " " || AdressTB.Text == "" || AdressTB.Text == " ")
+                {
 
-            }
-            else
-            {
+                    MessageBox.Show("Заполните все поля", "Внимание!", MessageBoxButton.OK, MessageBoxImage.Warning);
 
-                functionsClass.GetRow(DataGrid, 0);
-                functionsClass.Change("UPDATE `orders` SET `Auto_Id`='" + AutoIdTB.Text + "',`Rent_time`='" + RentTimeTB.Text + "',`Payment_type`='" + PaymentTypeTB.Text + "'," +
-                    "`Order_date`='" + OrderDate.SelectedDate.Value.ToString("yyyy/MM/dd") + "',`Final_price`='" + PriceTB.Text + "',`Adress`='" + AdressTB.Text + "',`Status`='" + Status.Text + "' WHERE ID='" + functionsClass.NeededRow + "' ", "Не удалось выполнить операцию!", "Ошибка!", "Успешно!");
-                functionsClass.Load("SELECT * FROM `orders`", DataGrid);
+                }
+                else
+                {
 
+                    functionsClass.GetRow(DataGrid, 0);
+                    functionsClass.Change("UPDATE `orders` SET `Auto_Id`='" + AutoIdTB.Text + "',`Rent_time`='" + RentTimeTB.Text + "',`Payment_type`='" + PaymentTypeTB.Text + "'," +
+                        "`Order_date`='" + OrderDate.SelectedDate.Value.ToString("yyyy/MM/dd") + "',`Final_price`='" + PriceTB.Text + "',`Adress`='" + AdressTB.Text + "',`Status`='" + Status.Text + "' WHERE ID='" + functionsClass.NeededRow + "' ", "Не удалось выполнить операцию!", "Ошибка!", "Успешно!");
+                    functionsClass.Load("SELECT * FROM `orders`", DataGrid);
+
+                }
             }
         }
         string status;
