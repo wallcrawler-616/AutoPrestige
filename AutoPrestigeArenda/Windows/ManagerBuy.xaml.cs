@@ -108,20 +108,22 @@ namespace AutoPrestigeArenda
 
         private void UpdateBT_Click(object sender, RoutedEventArgs e)
         {
-
-            if (Cars.SelectedItem != null)
+            if (Cars.SelectedItems != null)
             {
-                if (NumberTB.Text == "" || DriverUnitTB.Text == "" || ComputerTB.Text == "" || TransmissionTB.Text == "" || Status.Text == "" ||
-               NumberTB.Text == " " || DriverUnitTB.Text == " " || ComputerTB.Text == " " || TransmissionTB.Text == " " || Status.Text == " ")
+                if (Cars.SelectedItem != null)
                 {
+                    if (NumberTB.Text == "" || DriverUnitTB.Text == "" || ComputerTB.Text == "" || TransmissionTB.Text == "" || Status.Text == "" ||
+                   NumberTB.Text == " " || DriverUnitTB.Text == " " || ComputerTB.Text == " " || TransmissionTB.Text == " " || Status.Text == " ")
+                    {
 
-                    System.Windows.MessageBox.Show("Должны быть заполнены все поля!", "Ошибка!", MessageBoxButton.OK, MessageBoxImage.Warning);
-                }
-                else
-                {
-                    functionsClass.GetRow(Cars, 0);
-                    functionsClass.Change("UPDATE `car_list` SET `Number`='" + NumberTB.Text + "',`Model`='" + ModelCB.Text + "',`Drive_unit`='" + DriverUnitTB.Text + "',`Onboard_computer`= '" + ComputerTB.Text + "',`Transmission`='" + TransmissionTB.Text + "' ,`Status`= '" + Status.Text + "' WHERE `Model`='" + functionsClass.NeededRow + "'", "Не удалось выполнить операцию!", "Ошибка!", "Успешно!");
-                    functionsClass.Load("SELECT * FROM `car_list`", Cars);
+                        System.Windows.MessageBox.Show("Должны быть заполнены все поля!", "Ошибка!", MessageBoxButton.OK, MessageBoxImage.Warning);
+                    }
+                    else
+                    {
+                        functionsClass.GetRow(Cars, 0);
+                        functionsClass.Change("UPDATE `car_list` SET `Number`='" + NumberTB.Text + "',`Model`='" + ModelCB.Text + "',`Drive_unit`='" + DriverUnitTB.Text + "',`Onboard_computer`= '" + ComputerTB.Text + "',`Transmission`='" + TransmissionTB.Text + "' ,`Status`= '" + Status.Text + "' WHERE `Model`='" + functionsClass.NeededRow + "'", "Не удалось выполнить операцию!", "Ошибка!", "Успешно!");
+                        functionsClass.Load("SELECT * FROM `car_list`", Cars);
+                    }
                 }
             }
         }
@@ -226,8 +228,8 @@ namespace AutoPrestigeArenda
 
         private void InsertModelBT_Click(object sender, RoutedEventArgs e)
         {
-            if (ModelCB.Text == "" || BrandTB.Text == "" || ClassTB.Text == "" || CountTB.Text == "" || PriceTB.Text == "" ||
-             ModelCB.Text == " " || BrandTB.Text == " " || ClassTB.Text == " " || CountTB.Text == " " || PriceTB.Text == " " || PictureTB.Text==""|| PictureTB.Text == " ")
+            if (ModelTB.Text == "" || BrandTB.Text == "" || ClassTB.Text == "" || CountTB.Text == "" || PriceTB.Text == "" ||
+             ModelCB.Text == " " || BrandTB.Text == " " || ClassTB.Text == " " || CountTB.Text == " " || PriceTB.Text == " " ||)
             {
                 System.Windows.MessageBox.Show("Необходимо заполнить все поля", "Внимание!", MessageBoxButton.OK, MessageBoxImage.Warning);
             }
